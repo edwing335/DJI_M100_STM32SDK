@@ -1,14 +1,14 @@
 .\misc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\src\misc.c
 .\misc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
 .\misc.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
-.\misc.o: D:\Program Files (x86)\MDK\ARM\ARMCC\bin\..\include\stdio.h
-.\misc.o: D:\Program Files (x86)\MDK\ARM\ARMCC\bin\..\include\string.h
+.\misc.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\misc.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\string.h
 .\misc.o: ..\APP\BSP_Config.h
 .\misc.o: ..\Libraries\CMSIS\Core\CM3\stm32f10x.h
 .\misc.o: ..\APP\CRC.H
 .\misc.o: ..\APP\oled.h
 .\misc.o: ..\Libraries\CMSIS\Core\CM3\core_cm3.h
-.\misc.o: D:\Program Files (x86)\MDK\ARM\ARMCC\bin\..\include\stdint.h
+.\misc.o: D:\Program Files (x86)\Keil\ARM\ARMCC\bin\..\include\stdint.h
 .\misc.o: ..\Libraries\CMSIS\Core\CM3\system_stm32f10x.h
 .\misc.o: ..\APP\stm32f10x_conf.h
 .\misc.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
