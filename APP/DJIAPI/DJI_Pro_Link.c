@@ -253,10 +253,6 @@ void Pro_Receive_Interface(void)
 		
 		switch(RecData.CommandSet)
 		{
-			case 0x00:
-				if(RecData.CommandId == 0x01)//º§ªÓAPI
-					;
-				break;
 			case 0x02:
 				if(RecData.CommandId==0x02)
 					memcpy((unsigned char*)&DataFromMobile,(unsigned char*)&RecData,sizeof(RecData));

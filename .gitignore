@@ -7,3 +7,11 @@
 *.htm
 *.crf
 *.crf
+*.crf
+MDK-Proj/bsp_config.d
+*.o
+*.HaiPiao
+*.bak
+*.uvopt
+*.bak
+*.axf
