@@ -15,3 +15,5 @@ MDK-Proj/bsp_config.d
 *.uvopt
 *.bak
 *.axf
+*.htm
+MDK-Proj/DJI_STM32_SDK.build_log.htm

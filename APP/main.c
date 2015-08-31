@@ -97,8 +97,6 @@ int main(void)
 	OLED_ShowString(0,0, "MICL_Piao"); 
 	OLED_ShowString(0,16,"Drone Status:");
 	OLED_ShowString(0,32,"Wating!");
-	//while(KEY0);//按key0开始起飞
-	//OLED_ShowString(0,32,"Activate Success");  
 	
 	while(1)
 	{	
